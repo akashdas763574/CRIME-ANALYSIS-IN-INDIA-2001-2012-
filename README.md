@@ -10,7 +10,7 @@ A complete semantic data model was built to support clean filtering, advanced KP
 
 ![image alt](https://github.com/akashdas763574/CRIME-ANALYSIS-IN-INDIA-2001-2012-/blob/710dbbbac8b40c720d2a912d162db6de4ad9a719/Screenshot%202025-12-26%20173902.png)
 
-![image alt]()
+![image alt](https://github.com/akashdas763574/CRIME-ANALYSIS-IN-INDIA-2001-2012-/blob/9931b7c2afca0693d783891b21a7dc99911dc464/Screenshot%202025-12-26%20174000.png)
 *DATA CLEANING & TRANSFORMATION:*
 
 The original dataset required extensive cleaning to ensure accurate analytics.
